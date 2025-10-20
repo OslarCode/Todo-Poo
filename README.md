@@ -1,6 +1,6 @@
 # TODO POO — Vanilla JS (ES6+)
 
-Aplicación TODO mínima diseñada para **practicar POO en JavaScript** (Abstracción, Herencia, Encapsulación, Polimorfismo) con **arquitectura limpia** y **UI accesible** sin frameworks.
+Aplicación TODO mínima diseñada para practicar POO en JavaScript (Abstracción, Herencia, Encapsulación, Polimorfismo) con arquitectura limpia\*\* y UI accesible sin frameworks.
 
 ## Características
 
